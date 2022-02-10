@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.59.140:8081/war-snap/</url>
+            <url>http://192.168.59.140:8081/repository/war-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
